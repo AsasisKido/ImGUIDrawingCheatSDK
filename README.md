@@ -1,4 +1,4 @@
-# ImGUIDrawingCheatSDK
+# Components for rendering // aheartlessman
 # Russian Language:
 Представляю вам SDK отрисовки ImGui, отрисовка BoundedBox, Skeleton, Line, Circle
 Когда мне нужен был такой же SDK я нигде его не находил, в итоге написал сам и сливаю вам
